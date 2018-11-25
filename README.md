@@ -1,2 +1,3 @@
 # message-security
-Message Encryption and Decryption using Matrices
+The application “Message Security Using Matrices” could be used in various messaging applications to secure the communication by encrypting the message and sending it to another user, who can decrypt the message and read it. Encryption is the transformation of data into some unreadable form. Its purpose is to ensure privacy by keeping the information hidden from anyone for whom it is not intended. Decryption is the reverse of encryption, it is the transformation of encrypted data back into readable form.
+	We use matrices to encrypt and decrypt the messages, encryption and decryption require the use of some secret information which in this case referred to as an encryption matrix, we use the inverse of the encryption matrix to decrypt the message.
